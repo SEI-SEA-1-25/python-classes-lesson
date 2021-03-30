@@ -1,0 +1,26 @@
+Schedule:
+Understand the difference between objects and classes
+How to use Python classes
+Refresher on the 4 principals of OOP (Object Oriented Programming)
+
+1. Abstraction
+    -> Implementation details are hidden away
+    -> You don't NEED to know how a car runs
+    -> All you need to know is how to USE it
+2. Inheritance
+    -> Parent Child Relationship
+    -> Child (IS A) Parent
+    -> The child class extends the super class
+    -> thereby gaining it's functionalities!
+3. Encapsulation
+    -> Data hiding
+    -> You (the programmer) provide INTERFACES that can be used
+    -> to access the state variables
+4. Polymorphism
+    -> The child class can operate as if it was the parent class
+
+
+
+
+Python and JavaScript are 'high level interpreted languages'
+
